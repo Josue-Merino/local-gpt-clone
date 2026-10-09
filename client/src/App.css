@@ -11,8 +11,14 @@
 
 @theme {
   --font-sans: "Montserrat", sans-serif;
+  --color-neutral: #0D141D;
+  --color-light-neutral: #242A34;
+  --color-ia: #00285d;
+  --color-ia-bg: #4D8EFF;
 }
 
 body {
   font-family: var(--font-sans);
 }
+
+
